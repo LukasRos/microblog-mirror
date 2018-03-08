@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Lukas Rosenstock",
-	"home_page_url": "https://lukas.micro.blog/",
-	"feed_url": "https://lukas.micro.blog/feed.json",
+	"home_page_url": "http://lukasrosenstock.net/",
+	"feed_url": "http://lukasrosenstock.net/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<p>After long consideration, I decided to create a hosted Microblog on micro.blog. Now I need to set this thing up.</p>\n",
 			"date_published": "2018-03-07T14:44:00+01:00",
-			"url": "https://lukas.micro.blog/2018/03/07/after-long-consideration.html"
+			"url": "http://lukasrosenstock.net/2018/03/07/after-long-consideration.html"
 		}
 		
 	]
