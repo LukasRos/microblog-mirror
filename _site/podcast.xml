@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Lukas Rosenstock</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/lukas&quot;&gt;@lukas on Micro.blog&lt;/a&gt;.</description>
+    <link>http://lukasrosenstock.net/</link>
+    <pubDate>Sun, 15 Apr 2018 16:57:08 +0200</pubDate>
+    <lastBuildDate>Sun, 15 Apr 2018 16:57:08 +0200</lastBuildDate>
+	<itunes:image href="https://micro.blog/lukas/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>		
+	<language>en</language>
+    
+		
+    
+		
+    
+  </channel>
+</rss>
