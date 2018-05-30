@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Lukas Rosenstock",
-	"home_page_url": "http://lukasrosenstock.net/",
-	"feed_url": "http://lukasrosenstock.net/feed.json",
+	"home_page_url": "https://lukasrosenstock.net/",
+	"feed_url": "https://lukasrosenstock.net/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<p>As promised, I wrote an article about my experience at API the Docs Paris 2018. It’s <a href=\"https://blog.cloudobjects.io/api-documentation/events/2018/05/04/api-the-docs-paris/\">published on the CloudObjects blog</a>. Looking forward to your feedback!</p>\n",
 			"date_published": "2018-05-08T10:35:29+02:00",
-			"url": "http://lukasrosenstock.net/2018/05/08/as-promised-i.html"
+			"url": "https://lukasrosenstock.net/2018/05/08/as-promised-i.html"
 		},
 		
 		{
@@ -18,7 +18,7 @@
 	      	
 			"content_html": "<p>I’m on a train on my way back home from Paris, where I had three great days! I arrived on Monday and spent the afternoon exploring the city a bit, then met some of the conference attendees for dinner. On Tuesday there was the actual <a href=\"https://apithedocs.org/paris2018\">API the Docs</a> conference day at the beautiful Mozilla office. There were interesting speakers and more nice and interesting people to talk to. I’ve started writing a blog post about the event and the talks which I’ll publish on the CloudObjects Blog soon. This morning before leaving I went to see <a href=\"http://stationf.co/\">STATION F</a>, the world’s largest startup campus, located in Paris.</p>\n",
 			"date_published": "2018-04-25T18:08:14+02:00",
-			"url": "http://lukasrosenstock.net/2018/04/25/im-on-a.html"
+			"url": "https://lukasrosenstock.net/2018/04/25/im-on-a.html"
 		},
 		
 		{
@@ -26,7 +26,7 @@
 	      	
 			"content_html": "<p>I’m happy to announce that not only will I be attending <a href=\"https://apithedocs.org/paris2018\">API the Docs in Paris on April 24th</a>, but my talk proposal <a href=\"https://apithedocs.org/node/152\">“To SDK or not to SDK?”</a> has been accepted by the conference committee.\nCurrently I’m working on the talk and look very much forward to giving it in Paris soon.</p>\n",
 			"date_published": "2018-04-15T16:57:07+02:00",
-			"url": "http://lukasrosenstock.net/2018/04/15/im-happy-to.html"
+			"url": "https://lukasrosenstock.net/2018/04/15/im-happy-to.html"
 		},
 		
 		{
@@ -34,7 +34,7 @@
 	      	
 			"content_html": "<p>After long consideration, I decided to create a hosted Microblog on micro.blog. Now I need to set this thing up.</p>\n",
 			"date_published": "2018-03-07T14:44:08+01:00",
-			"url": "http://lukasrosenstock.net/2018/03/07/after-long-consideration.html"
+			"url": "https://lukasrosenstock.net/2018/03/07/after-long-consideration.html"
 		}
 		
 	]
