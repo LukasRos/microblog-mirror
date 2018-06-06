@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-05 21:09:42 +0200
+date: 2018-06-05 19:09:42 -0000
 guid: http://lukas.micro.blog/2018/06/05/ive-written-and.html
 ---
 I've written and published an article, in which I describe how to create API test cases in [Postman](https://www.getpostman.com/) and then run them both within Postman as well as its command line companion Newman and finally export the collection from Postman and import it to BlazeMeter for cloud-based functional API testing.
