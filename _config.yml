@@ -45,7 +45,7 @@ github_username: "lukasros"
 instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "Zulu"
+timezone: "WET"
 site_id: "3438"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
