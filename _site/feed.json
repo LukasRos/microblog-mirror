@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://lukas.micro.blog/2018/06/22/machinereadable-api-specification.html",
+	      	
+			"content_html": "<p>Machine-readable API specification formats like OpenAPI are not just for creating documentation but can be a driver for the whole API lifecycle. If you generate them from code you’re leaving half of what OpenAPI can do on the table, so it’s better to develop a specification-first API workflow.</p>\n\n<p>I wrote about this topic as a guest post for Stoplight who offer cloud-based tools around OpenAPI and API design. You can <a href=\"https://blog.stoplight.io/openapi-and-design-first-principles-96e7c4b2aec1\">read it in the Stoplight API Corner on Medium</a>.</p>\n\n<p><em>Disclosure: This work was paid for by Stoplight.</em></p>\n",
+			"date_published": "2018-06-22T13:36:47+02:00",
+			"url": "https://lukasrosenstock.net/2018/06/22/machinereadable-api-specification.html"
+		},
+		
+		{
 			"id": "http://lukas.micro.blog/2018/06/21/im-back-home.html",
 	      	
 			"content_html": "<p>I’m back home in Germany after my two-week workation in Gran Canaria. These two weeks were a great experience but also way too short; as I had a lot of work to do I couldn’t explore as much of the city or the island as I wanted to. So, sooner or later, I have to go there again!</p>\n",
@@ -32,7 +40,7 @@
 		{
 			"id": "http://lukas.micro.blog/2018/06/05/ive-written-and.html",
 	      	
-			"content_html": "<p>I’ve written and published an article, in which I describe how to create API test cases in <a href=\"https://www.getpostman.com/\">Postman</a> and then run them both within Postman as well as its command line companion Newman and finally export the collection from Postman and import it to BlazeMeter for cloud-based functional API testing.</p>\n\n<p>If you’re curious you can read the article <a href=\"https://www.blazemeter.com/blog/api-functional-testing-with-postman-newman-blazemeter\">on the BlazeMeter blog</a> or the <a href=\"https://dzone.com/articles/functional-api-testing-with-postman-newman-and-bla\">syndicated copy on DZone</a>.</p>\n\n<p><em>Disclaimer: This work was paid for by BlazeMeter.</em></p>\n",
+			"content_html": "<p>I’ve written and published an article, in which I describe how to create API test cases in <a href=\"https://www.getpostman.com/\">Postman</a> and then run them both within Postman as well as its command line companion Newman and finally export the collection from Postman and import it to BlazeMeter for cloud-based functional API testing.</p>\n\n<p>If you’re curious you can read the article <a href=\"https://www.blazemeter.com/blog/api-functional-testing-with-postman-newman-blazemeter\">on the BlazeMeter blog</a> or the <a href=\"https://dzone.com/articles/functional-api-testing-with-postman-newman-and-bla\">syndicated copy on DZone</a>.</p>\n\n<p><em>Disclosure: This work was paid for by BlazeMeter.</em></p>\n",
 			"date_published": "2018-06-05T21:09:42+02:00",
 			"url": "https://lukasrosenstock.net/2018/06/05/ive-written-and.html"
 		},
