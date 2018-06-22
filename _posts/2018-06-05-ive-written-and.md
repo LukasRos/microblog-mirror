@@ -9,4 +9,4 @@ I've written and published an article, in which I describe how to create API tes
 
 If you're curious you can read the article [on the BlazeMeter blog](https://www.blazemeter.com/blog/api-functional-testing-with-postman-newman-blazemeter) or the [syndicated copy on DZone](https://dzone.com/articles/functional-api-testing-with-postman-newman-and-bla).
 
-_Disclaimer: This work was paid for by BlazeMeter._
+_Disclosure: This work was paid for by BlazeMeter._
