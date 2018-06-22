@@ -4,8 +4,21 @@
     <title>Lukas Rosenstock</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/lukas&quot;&gt;@lukas on Micro.blog&lt;/a&gt;.</description>
     <link>https://lukasrosenstock.net/</link>
-    <pubDate>Thu, 21 Jun 2018 16:39:13 +0200</pubDate>
-    <lastBuildDate>Thu, 21 Jun 2018 16:39:13 +0200</lastBuildDate>
+    <pubDate>Fri, 22 Jun 2018 13:38:25 +0200</pubDate>
+    <lastBuildDate>Fri, 22 Jun 2018 13:38:25 +0200</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Machine-readable API specification formats like OpenAPI are not just for creating documentation but can be a driver for the whole API lifecycle. If you generate them from code you’re leaving half of what OpenAPI can do on the table, so it’s better to develop a specification-first API workflow.&lt;/p&gt;
+
+&lt;p&gt;I wrote about this topic as a guest post for Stoplight who offer cloud-based tools around OpenAPI and API design. You can &lt;a href=&quot;https://blog.stoplight.io/openapi-and-design-first-principles-96e7c4b2aec1&quot;&gt;read it in the Stoplight API Corner on Medium&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Disclosure: This work was paid for by Stoplight.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Jun 2018 13:36:47 +0200</pubDate>
+        <link>https://lukasrosenstock.net/2018/06/22/machinereadable-api-specification.html</link>
+        <guid isPermaLink="true">http://lukas.micro.blog/2018/06/22/machinereadable-api-specification.html</guid>
+      </item>
     
       <item>
       	
@@ -45,7 +58,7 @@ Regarding the movie itself, it’s obviously outdated since it’s from 2016 and
 
 &lt;p&gt;If you’re curious you can read the article &lt;a href=&quot;https://www.blazemeter.com/blog/api-functional-testing-with-postman-newman-blazemeter&quot;&gt;on the BlazeMeter blog&lt;/a&gt; or the &lt;a href=&quot;https://dzone.com/articles/functional-api-testing-with-postman-newman-and-bla&quot;&gt;syndicated copy on DZone&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Disclaimer: This work was paid for by BlazeMeter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Disclosure: This work was paid for by BlazeMeter.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Jun 2018 21:09:42 +0200</pubDate>
         <link>https://lukasrosenstock.net/2018/06/05/ive-written-and.html</link>
