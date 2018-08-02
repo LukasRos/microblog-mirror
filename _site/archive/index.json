@@ -1,0 +1,97 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Lukas Rosenstock",
+	"home_page_url": "https://lukasrosenstock.net/",
+	"feed_url": "https://lukasrosenstock.net/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://lukas.micro.blog/2018/08/01/facebook-google-microsoft.html",
+	      	
+			"content_text": "Facebook, Google, Microsoft and Twitter recently announced the Data Transfer...",
+			"date_published": "2018-08-01T19:30:06+02:00",
+			"url": "https://lukasrosenstock.net/2018/08/01/facebook-google-microsoft.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/07/20/i-came-across.html",
+	      	
+			"content_text": "I came across the Kickstarter crowdfunding campaign for Openbook. They...",
+			"date_published": "2018-07-20T17:24:55+02:00",
+			"url": "https://lukasrosenstock.net/2018/07/20/i-came-across.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/06/22/machinereadable-api-specification.html",
+	      	
+			"content_text": "Machine-readable API specification formats like OpenAPI are not just for...",
+			"date_published": "2018-06-22T13:36:47+02:00",
+			"url": "https://lukasrosenstock.net/2018/06/22/machinereadable-api-specification.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/06/21/im-back-home.html",
+	      	
+			"content_text": "I’m back home in Germany after my two-week workation in...",
+			"date_published": "2018-06-21T16:39:11+02:00",
+			"url": "https://lukasrosenstock.net/2018/06/21/im-back-home.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/06/11/i-saw-the.html",
+	      	
+			"content_text": "I saw the documentary Banking on Bitcoin last night. The...",
+			"date_published": "2018-06-11T16:58:58+02:00",
+			"url": "https://lukasrosenstock.net/2018/06/11/i-saw-the.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/06/06/i-arrived-in.html",
+	      	
+			"content_text": "I arrived in Las Palmas de Gran Canaria today! For...",
+			"date_published": "2018-06-06T22:07:42+02:00",
+			"url": "https://lukasrosenstock.net/2018/06/06/i-arrived-in.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/06/05/ive-written-and.html",
+	      	
+			"content_text": "I’ve written and published an article, in which I describe...",
+			"date_published": "2018-06-05T21:09:42+02:00",
+			"url": "https://lukasrosenstock.net/2018/06/05/ive-written-and.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/05/08/as-promised-i.html",
+	      	
+			"content_text": "As promised, I wrote an article about my experience at...",
+			"date_published": "2018-05-08T10:35:29+02:00",
+			"url": "https://lukasrosenstock.net/2018/05/08/as-promised-i.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/04/25/im-on-a.html",
+	      	
+			"content_text": "I’m on a train on my way back home from...",
+			"date_published": "2018-04-25T18:08:14+02:00",
+			"url": "https://lukasrosenstock.net/2018/04/25/im-on-a.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/04/15/im-happy-to.html",
+	      	
+			"content_text": "I’m happy to announce that not only will I be...",
+			"date_published": "2018-04-15T16:57:07+02:00",
+			"url": "https://lukasrosenstock.net/2018/04/15/im-happy-to.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/03/07/after-long-consideration.html",
+	      	
+			"content_text": "After long consideration, I decided to create a hosted Microblog...",
+			"date_published": "2018-03-07T14:44:08+01:00",
+			"url": "https://lukasrosenstock.net/2018/03/07/after-long-consideration.html"
+		}
+		
+	]
+}
