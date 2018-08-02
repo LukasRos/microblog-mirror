@@ -10,6 +10,7 @@
 
 	<link rel="shortcut icon" href="https://micro.blog/lukas/favicon.png" type="image/x-icon" />
   <link rel="alternate" type="application/rss+xml" title="Lukas Rosenstock" href="https://lukasrosenstock.net/feed.xml" />
+  
   <link rel="alternate" type="application/json" title="Lukas Rosenstock" href="https://lukasrosenstock.net/feed.json" />
   <link rel="EditURI" type="application/rsd+xml" href="/rsd.xml" />
 
@@ -49,7 +50,13 @@
 		
 	
 		
+	
+		
 			<a class="page-link" href="/about/">About</a>
+		
+	
+		
+			<a class="page-link" href="/archive/">Archive</a>
 		
 	
 
@@ -58,6 +65,31 @@
 </header>
 <div class="content list h-feed">
 
+
+  <div class="list-item h-entry">
+	
+    <div class="content post e-content">
+      <p>Facebook, Google, Microsoft and Twitter recently announced the <a href="https://datatransferproject.dev/">Data Transfer Project</a> (DTP) as a way to improve data portability between different services. Naturally, I was intrigued to understand what precisely the DTP is. So I spend a recent ride on the train riding <a href="https://datatransferproject.dev/dtp-overview.pdf">the whitepaper</a> and will give you a little summary here:</p>
+
+<p>DTP provides <a href="https://github.com/google/data-transfer-project">a Java-based, Docker-deployable open source application</a> that executes bulk tasks with the following workflow:</p>
+<ul>
+  <li>Authenticate with providers via OAuth.</li>
+  <li>Export data from one provider through their API and, if necessary, convert it to a standard data model via adapters. Providers can write their own adapters, or third parties can contribute and share them as part of the open source project.</li>
+  <li>Temporarily store data in encrypted form.</li>
+  <li>Import data into another provider using their API after, if necessary, converting the standard data model back into the provider-specific format.</li>
+</ul>
+
+<p>A running instance of DTP is called a host. There are different possible models for hosts. One option (<em>distributed</em>) is that a provider itself runs a DTP that allows import from and export to a list of other providers of their choosing. The second option (<em>centralized</em>) is a third party that hosts the infrastructure to exchange data between different providers. The DTP whitepaper suggests that Data Portability NGOs could run such an instance. Finally, the third option (<em>self-managed</em>) means end users are running their own DTP instance.</p>
+
+<p>The DTP only provides software and doesn’t specify any requirements for providers as to with who they have to interact. Every host decides which adapters it makes available and needs to apply for API access with each provider. Also, the whole design of the DTP is for one-time data transfer and does not support continuous synchronization.</p>
+
+<p><strong>My opinion:</strong> The DTP is convincing and can certainly help with data portability. Of course, it depends on providers opening up their APIs, although consumer demand and data portability requirements (as in the GDPR) could drive them. Its scope is limited, but I think its data models could be applied even outside this scope for federation and interoperability (or they could become <a href="https://xkcd.com/927/">“just another standard …”</a>).</p>
+
+    </div>
+    <div class="list-post-date">
+      <a href="/2018/08/01/facebook-google-microsoft.html" class="u-url"><time class="dt-published" datetime="2018-08-01 19:30:06 +0200">01 Aug 2018</time></a>
+    </div>
+  </div>
 
   <div class="list-item h-entry">
 	
@@ -187,8 +219,6 @@ Currently I’m working on the talk and look very much forward to giving it in P
 
 
 </div>
-
-
 
 <footer class="site-footer">
 	<p class="text">Follow <a href="https://micro.blog/lukas">@lukas on Micro.blog</a>.</p>
