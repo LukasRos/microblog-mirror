@@ -4,8 +4,35 @@
     <title>Lukas Rosenstock</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/lukas&quot;&gt;@lukas on Micro.blog&lt;/a&gt;.</description>
     <link>https://lukasrosenstock.net/</link>
-    <pubDate>Wed, 01 Aug 2018 19:30:40 +0200</pubDate>
-    <lastBuildDate>Wed, 01 Aug 2018 19:30:40 +0200</lastBuildDate>
+    <pubDate>Sat, 11 Aug 2018 15:21:37 +0200</pubDate>
+    <lastBuildDate>Sat, 11 Aug 2018 15:21:37 +0200</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;As you may be aware, I’m interested in &lt;a href=&quot;https://en.wikipedia.org/wiki/Basic_income&quot;&gt;Universal Basic Income (UBI)&lt;/a&gt;. I believe that it is a useful policy for developed countries to counteract the adverse effects of increased automation and flexibility that leads to less job security. At the same time, I also believe that cash transfers, especially if issued as basic income (what &lt;a href=&quot;https://givedirectly.org/&quot;&gt;GiveDirectly&lt;/a&gt; does), are an effective mechanism for foreign aid.
+A while ago, I came across an exciting project called &lt;strong&gt;MannaBase&lt;/strong&gt;. Founded initially as &lt;em&gt;GrantCoin&lt;/em&gt;, MannaBase marries the basic income idea with a cryptocurrency. Their concept is that everyone can sign up and receive an equal share of the currency. As it’s a cryptocurrency, people can trade Manna at online exchanges, and that’s how the new money gains value.
+What I also like a lot about them is that the &lt;a href=&quot;https://www.peoplescurrency.org/&quot;&gt;People’s Currency foundation&lt;/a&gt; that issues Manna has plans to build direct giving instruments directly into the platform so that income recipients can redirect parts of their share to people in need based on demographics.
+The only downside to Manna that I see is that it’s a &lt;a href=&quot;https://en.wikipedia.org/wiki/Proof-of-work_system&quot;&gt;proof-of-work&lt;/a&gt; cryptocurrency, which are known to be inefficient. That is something that they, just like everyone else in the cryptocurrency space, has to solve if they want to reach mainstream adoption, but the first steps (such as proof-of-stake or lightning networks) have already been made.
+As of now, the weekly distribution has a value of around a single cent, but a project like this is a long shot aimed at the future. Also, to grow the community, MannaBase has a referral program!
+So, if you also find this is an inspiring idea, why not &lt;a href=&quot;https://www.mannabase.com/?ref=0fd3f2f990&quot;&gt;sign up for MannaBase with my referral link&lt;/a&gt; and collect 50% more Manna for a year?! I’d appreciate that :)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Aug 2018 15:21:32 +0200</pubDate>
+        <link>https://lukasrosenstock.net/2018/08/11/as-you-may.html</link>
+        <guid isPermaLink="true">http://lukas.micro.blog/2018/08/11/as-you-may.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;You have never created a machine-readable API specification with OpenAPI because you didn’t know how to start?! Lucky for you, I’ve written a practical tutorial that does a little hand-holding and takes you step-by-step through your first OpenAPI file. It uses &lt;a href=&quot;https://stoplight.io/&quot;&gt;Stoplight&lt;/a&gt;’s visual editor, so you don’t have to code it in YAML or JSON manually, but I also show you how it looks like under the hood, so you better understand how OpenAPI works.&lt;/p&gt;
+
+&lt;p&gt;You can &lt;a href=&quot;https://blog.stoplight.io/getting-started-with-api-design-using-stoplight-and-openapi-90fc8f37ac2e&quot;&gt;find my tutorial in the Stoplight API Corner on Medium&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Disclosure: This work was paid for by Stoplight.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Aug 2018 19:44:38 +0200</pubDate>
+        <link>https://lukasrosenstock.net/2018/08/02/you-have-never.html</link>
+        <guid isPermaLink="true">http://lukas.micro.blog/2018/08/02/you-have-never.html</guid>
+      </item>
     
       <item>
       	
