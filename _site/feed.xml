@@ -4,16 +4,20 @@
     <title>Lukas Rosenstock</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/lukas&quot;&gt;@lukas on Micro.blog&lt;/a&gt;.</description>
     <link>https://lukasrosenstock.net/</link>
-    <pubDate>Mon, 20 Aug 2018 22:28:26 +0200</pubDate>
-    <lastBuildDate>Mon, 20 Aug 2018 22:28:26 +0200</lastBuildDate>
+    <pubDate>Tue, 21 Aug 2018 09:01:24 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Aug 2018 09:01:24 +0200</lastBuildDate>
     
       <item>
       	
-        <description>&lt;p&gt;This is a test post created with the Wrimini app for Android (alpha version).&lt;/p&gt;
+        <description>&lt;p&gt;Security is an often overlooked aspect of API design. In another guest post for my client &lt;a href=&quot;https://stoplight.io&quot;&gt;Stoplight&lt;/a&gt; I have written about the different elements of API security and how the &lt;a href=&quot;https://www.openapis.org/&quot;&gt;OpenAPI specification&lt;/a&gt; allows you to define authentication and authorization for your API explicitly, but also how a specification-driven workflow helps with security in general.&lt;/p&gt;
+
+&lt;p&gt;You can read &lt;a href=&quot;https://blog.stoplight.io/api-security-in-openapi-b105ae725a08&quot;&gt;my API security in OpenAPI article in the Stoplight API Corner on Medium&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Disclosure: This work was paid for by Stoplight.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 20 Aug 2018 22:28:20 +0200</pubDate>
-        <link>https://lukasrosenstock.net/2018/08/20/202820.html</link>
-        <guid isPermaLink="true">http://lukas.micro.blog/2018/08/20/202820.html</guid>
+        <pubDate>Tue, 21 Aug 2018 09:01:13 +0200</pubDate>
+        <link>https://lukasrosenstock.net/2018/08/21/security-is-an.html</link>
+        <guid isPermaLink="true">http://lukas.micro.blog/2018/08/21/security-is-an.html</guid>
       </item>
     
       <item>
