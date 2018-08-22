@@ -6,11 +6,11 @@
 	"items": [
 		
 		{
-			"id": "http://lukas.micro.blog/2018/08/20/202820.html",
+			"id": "http://lukas.micro.blog/2018/08/21/security-is-an.html",
 	      	
-			"content_html": "<p>This is a test post created with the Wrimini app for Android (alpha version).</p>\n",
-			"date_published": "2018-08-20T22:28:20+02:00",
-			"url": "https://lukasrosenstock.net/2018/08/20/202820.html"
+			"content_html": "<p>Security is an often overlooked aspect of API design. In another guest post for my client <a href=\"https://stoplight.io\">Stoplight</a> I have written about the different elements of API security and how the <a href=\"https://www.openapis.org/\">OpenAPI specification</a> allows you to define authentication and authorization for your API explicitly, but also how a specification-driven workflow helps with security in general.</p>\n\n<p>You can read <a href=\"https://blog.stoplight.io/api-security-in-openapi-b105ae725a08\">my API security in OpenAPI article in the Stoplight API Corner on Medium</a>.</p>\n\n<p><em>Disclosure: This work was paid for by Stoplight.</em></p>\n",
+			"date_published": "2018-08-21T09:01:13+02:00",
+			"url": "https://lukasrosenstock.net/2018/08/21/security-is-an.html"
 		},
 		
 		{
