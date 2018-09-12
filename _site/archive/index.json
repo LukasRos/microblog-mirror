@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://lukas.micro.blog/2018/09/11/for-apis-to.html",
+	      	
+			"content_text": "For APIs to be successful, it’s important that they are...",
+			"date_published": "2018-09-11T11:33:36+02:00",
+			"url": "https://lukasrosenstock.net/2018/09/11/for-apis-to.html"
+		},
+		
+		{
 			"id": "http://lukas.micro.blog/2018/08/21/security-is-an.html",
 	      	
 			"content_text": "Security is an often overlooked aspect of API design. In...",
