@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Lukas Rosenstock",
+	"icon": "https://micro.blog/lukas/avatar.jpg",
 	"home_page_url": "https://lukasrosenstock.net/",
 	"feed_url": "https://lukasrosenstock.net/feed.json",
 	"items": [
+		
+		{
+			"id": "http://lukas.micro.blog/2018/09/19/a-month-ago.html",
+	      	
+			"content_html": "<p>A month ago <a href=\"https://lukasrosenstock.net/2018/08/11/as-you-may.html\">I had written about Manna</a>, the cryptocurrency that is issued as a Universal Basic Income (UBI). It was <a href=\"https://www.usv.com/blog/an-overview-of-blockchain-based-universal-basic-income-projects\">an article in the Union Square Ventures (USV) blog</a> that caused me to sign up for their service. The list that USV compiled contained a few more intriguing projects but, to get started, I wanted to experiment with only one. A few days ago I came across <a href=\"https://safehaven.com/cryptocurrencies/alt-coins/Universal-Basic-Income-Is-This-The-Crypto-End-Game.html\">another interesting article about the intersection of cryptocurrencies and UBI</a>, which listed only two examples, Manna and <strong>Swift</strong> (which was also in the USV list). So I decided to sign up for Swift as well.</p>\n\n<p>The difference between Manna and Swift is that Manna already uses the blockchain while Swift is a centralized digital currency whose blockchain is under development. As far as its website goes, Swift looks a bit more advanced at the moment, for example, it has a complete shop and an API to build transactions around the system. Another critical difference is that Manna will automatically come to your account once a week whereas Swift comes daily but you need to claim it actively and, if unclaimed, new income payments expire after seven days. That means, if you want to use and collect Swift, you should sign in to their website at least once a week. It could be a crucial feature, though, to drive actual adoption and keep the currency valuable instead of having a large number of non-active accounts (“Karteileichen”) holding the coin.</p>\n\n<p>There’s also a referral program, so if you want to try it, <a href=\"https://www.swiftdemand.com/?referred_by=lukasros\">please sign up with my link</a>. I’m curious how this space will develop. If I find the time I will play around with the API and offer some services in their shop.</p>\n",
+			"date_published": "2018-09-19T13:48:11+02:00",
+			"url": "https://lukasrosenstock.net/2018/09/19/a-month-ago.html"
+		},
 		
 		{
 			"id": "http://lukas.micro.blog/2018/09/11/for-apis-to.html",
