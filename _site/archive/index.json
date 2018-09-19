@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Lukas Rosenstock",
+	"icon": "https://micro.blog/lukas/avatar.jpg",
 	"home_page_url": "https://lukasrosenstock.net/",
 	"feed_url": "https://lukasrosenstock.net/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://lukas.micro.blog/2018/09/19/a-month-ago.html",
+	      	
+			"content_text": "A month ago I had written about Manna, the cryptocurrency...",
+			"date_published": "2018-09-19T13:48:11+02:00",
+			"url": "https://lukasrosenstock.net/2018/09/19/a-month-ago.html"
+		},
 		
 		{
 			"id": "http://lukas.micro.blog/2018/09/11/for-apis-to.html",
