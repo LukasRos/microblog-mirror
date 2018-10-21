@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://lukas.micro.blog/2018/10/21/the-tech-industry.html",
+	      	
+			"content_text": "The tech industry has a massive impact on the world...",
+			"date_published": "2018-10-21T16:05:55+02:00",
+			"url": "https://lukasrosenstock.net/2018/10/21/the-tech-industry.html"
+		},
+		
+		{
 			"id": "http://lukas.micro.blog/2018/09/19/a-month-ago.html",
 	      	
 			"content_text": "A month ago I had written about Manna, the cryptocurrency...",
