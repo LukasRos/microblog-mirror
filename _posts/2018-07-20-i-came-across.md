@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-20 17:24:55 +0200
+date: 2018-07-20 16:24:55 +0100
 guid: http://lukas.micro.blog/2018/07/20/i-came-across.html
 ---
 I came across [the Kickstarter crowdfunding campaign for Openbook](https://www.kickstarter.com/projects/1520156881/openbook-the-honest-open-source-and-awesome-social). They call themselves "The honest, open-source & awesome social network", and their plan is to build a "Facebook competitor" that is open sourced, free of advertisements, and wants to donate a portion of their revenue to charity - but apparently is not decentralized or federated.
