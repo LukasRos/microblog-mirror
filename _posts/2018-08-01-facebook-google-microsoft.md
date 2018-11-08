@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-01 19:30:06 +0200
+date: 2018-08-01 18:30:06 +0100
 guid: http://lukas.micro.blog/2018/08/01/facebook-google-microsoft.html
 ---
 Facebook, Google, Microsoft and Twitter recently announced the [Data Transfer Project](https://datatransferproject.dev/) (DTP) as a way to improve data portability between different services. Naturally, I was intrigued to understand what precisely the DTP is. So I spend a recent ride on the train riding [the whitepaper](https://datatransferproject.dev/dtp-overview.pdf) and will give you a little summary here:
