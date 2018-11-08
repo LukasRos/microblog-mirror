@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-21 16:05:55 +0200
+date: 2018-10-21 15:05:55 +0100
 guid: http://lukas.micro.blog/2018/10/21/the-tech-industry.html
 ---
 The tech industry has a massive impact on the world and our societies, both positive and negative. Social networks have brought people together but have also been detrimental to privacy. Their broad reach and algorithms have helped with the Arab Spring but also with Donald Trump and Brexit. Smartphones require materials that are often mined by child labor. Data centers draw vast amounts of energy.
