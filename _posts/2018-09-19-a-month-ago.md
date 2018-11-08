@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-19 13:48:11 +0200
+date: 2018-09-19 12:48:11 +0100
 guid: http://lukas.micro.blog/2018/09/19/a-month-ago.html
 ---
 A month ago [I had written about Manna](https://lukasrosenstock.net/2018/08/11/as-you-may.html), the cryptocurrency that is issued as a Universal Basic Income (UBI). It was [an article in the Union Square Ventures (USV) blog](https://www.usv.com/blog/an-overview-of-blockchain-based-universal-basic-income-projects) that caused me to sign up for their service. The list that USV compiled contained a few more intriguing projects but, to get started, I wanted to experiment with only one. A few days ago I came across [another interesting article about the intersection of cryptocurrencies and UBI](https://safehaven.com/cryptocurrencies/alt-coins/Universal-Basic-Income-Is-This-The-Crypto-End-Game.html), which listed only two examples, Manna and **Swift** (which was also in the USV list). So I decided to sign up for Swift as well.
