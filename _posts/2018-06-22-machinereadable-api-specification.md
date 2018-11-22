@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-22 12:36:47 +0100
 guid: http://lukas.micro.blog/2018/06/22/machinereadable-api-specification.html
 ---
