@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-19 12:48:11 +0100
 guid: http://lukas.micro.blog/2018/09/19/a-month-ago.html
 ---
