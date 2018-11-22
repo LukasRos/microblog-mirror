@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-21 15:39:11 +0100
 guid: http://lukas.micro.blog/2018/06/21/im-back-home.html
 ---
