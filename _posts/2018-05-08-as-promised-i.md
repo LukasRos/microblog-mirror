@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-08 09:35:29 +0100
 guid: http://lukas.micro.blog/2018/05/08/as-promised-i.html
 ---
