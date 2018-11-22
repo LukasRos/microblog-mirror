@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://lukas.micro.blog/2018/11/22/tonight-i-will.html",
+	      	
+			"content_html": "<p>Tonight I will be at the <a href=\"https://www.meetup.com/de-DE/bits-bytes-bier/events/254301085/\">bits, bytes &amp; bier #3 meetup</a> in the <em>FinTecSystems</em> office in Linden near Gießen and give a talk called <em>Specification-driven API Design with OpenAPI</em>. It will be similar to last week’s talk, but since it’s a meetup targeted at developer, there will be an emphasis on the OpenAPI specification and less about documentation and the role of technical writers.</p>\n",
+			"date_published": "2018-11-22T15:17:27+01:00",
+			"url": "https://lukasrosenstock.net/2018/11/22/tonight-i-will.html"
+		},
+		
+		{
+			"id": "http://lukas.micro.blog/2018/11/15/thanks-to-everyone.html",
+	      	
+			"content_html": "<p>Thanks to everyone who was at my talk <em>Specification-driven API vs. Technical Writers</em>. If you want to refresh your memory or if you haven’t been at the talk but still interested in the topic you can now <a href=\"https://www.slideshare.net/LukasRos/specificationdriven-api-design-vs-technical-writers\">get my deck on SlideShare</a>.</p>\n",
+			"date_published": "2018-11-15T13:41:05+01:00",
+			"url": "https://lukasrosenstock.net/2018/11/15/thanks-to-everyone.html"
+		},
+		
+		{
 			"id": "http://lukas.micro.blog/2018/11/15/im-at-this.html",
 	      	
 			"content_html": "<p>I’m at this year’s <a href=\"https://conferences.tekom.de/tcworld18/\">tekom conference and fair</a>, also known as <strong>tcworld18</strong>, and I’m about to give a talk titled <em>Specification-driven API vs. Technical Writers</em>. If you found my website because of it, welcome! The slides will be published by tekom after the conference but I will also share them on this site soon.</p>\n",
