@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-20 16:24:55 +0100
 guid: http://lukas.micro.blog/2018/07/20/i-came-across.html
 ---
