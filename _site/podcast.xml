@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Lukas Rosenstock</title>
-    <description></description>
+    <description>I write code and words about code.</description>
     <link>https://lukasrosenstock.net/</link>
-    <pubDate>Thu, 15 Nov 2018 11:25:50 +0100</pubDate>
-    <lastBuildDate>Thu, 15 Nov 2018 11:25:50 +0100</lastBuildDate>
+    <pubDate>Thu, 22 Nov 2018 15:17:35 +0100</pubDate>
+    <lastBuildDate>Thu, 22 Nov 2018 15:17:35 +0100</lastBuildDate>
 	<itunes:image href="https://micro.blog/lukas/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
@@ -17,6 +17,10 @@
 		<itunes:email></itunes:email>
 	</itunes:owner>
 	<language>en</language>
+    
+		
+    
+		
     
 		
     
