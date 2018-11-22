@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-21 15:05:55 +0100
 guid: http://lukas.micro.blog/2018/10/21/the-tech-industry.html
 ---
