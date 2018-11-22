@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-05 20:09:42 +0100
 guid: http://lukas.micro.blog/2018/06/05/ive-written-and.html
 ---
