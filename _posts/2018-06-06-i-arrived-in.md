@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-06 21:07:42 +0100
 guid: http://lukas.micro.blog/2018/06/06/i-arrived-in.html
 ---
