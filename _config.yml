@@ -48,7 +48,7 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "3438"
 gems: ["jekyll-paginate"]
-itunes_description: ""
+itunes_description: "I write code and words about code."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Lukas Rosenstock"
