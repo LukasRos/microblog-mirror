@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-21 08:01:13 +0100
 guid: http://lukas.micro.blog/2018/08/21/security-is-an.html
 ---
