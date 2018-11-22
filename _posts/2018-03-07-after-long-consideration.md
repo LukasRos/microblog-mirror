@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-07 14:44:08 +0100
 guid: http://lukas.micro.blog/2018/03/07/after-long-consideration.html
 ---
