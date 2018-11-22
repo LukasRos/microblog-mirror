@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-01 18:30:06 +0100
 guid: http://lukas.micro.blog/2018/08/01/facebook-google-microsoft.html
 ---
