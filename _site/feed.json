@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://lukas.micro.blog/2018/11/23/thank-you-for.html",
+	      	
+			"content_html": "<p>Thank you for your interest in my talk <em>Specification-driven API with OpenAPI</em>! I have now <a href=\"https://www.slideshare.net/LukasRos/specificationdriven-api-design-with-openapi\">uploaded the slides to SlideShare</a>.</p>\n",
+			"date_published": "2018-11-23T10:46:58+01:00",
+			"url": "https://lukasrosenstock.net/2018/11/23/thank-you-for.html"
+		},
+		
+		{
 			"id": "http://lukas.micro.blog/2018/11/22/tonight-i-will.html",
 	      	
 			"content_html": "<p>Tonight I will be at the <a href=\"https://www.meetup.com/de-DE/bits-bytes-bier/events/254301085/\">bits, bytes &amp; bier #3 meetup</a> in the <em>FinTecSystems</em> office in Linden near Gießen and give a talk called <em>Specification-driven API Design with OpenAPI</em>. It will be similar to last week’s talk, but since it’s a meetup targeted at developer, there will be an emphasis on the OpenAPI specification and less about documentation and the role of technical writers.</p>\n",
