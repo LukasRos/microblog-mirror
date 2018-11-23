@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://lukas.micro.blog/2018/11/23/thank-you-for.html",
+	      	
+			"content_text": "Thank you for your interest in my talk Specification-driven API...",
+			"date_published": "2018-11-23T10:46:58+01:00",
+			"url": "https://lukasrosenstock.net/2018/11/23/thank-you-for.html"
+		},
+		
+		{
 			"id": "http://lukas.micro.blog/2018/11/22/tonight-i-will.html",
 	      	
 			"content_text": "Tonight I will be at the bits, bytes &amp; bier...",
